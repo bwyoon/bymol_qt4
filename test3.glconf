@@ -1,0 +1,12 @@
+0 0 26532.9     // Eye (Camera) Position
+0 0 0     // LookAt Position
+0 1 0     // Up direction
+0.3 26332.9 26732.9     // View Angle, Z-near, Z-far
+1920 1920     // Viewport Width, Height
+FFFFFFFF     // Background Color
+128      // Shininess
+1      // Number of Lights (limited to 10)
+0 0 10000 FFFFFFFF 000000FF FFFFFFFF // Light position, Diffuse Color, Ambient Color, Specular Color
+0.940151 0.144424 -0.308639  // a11 a21 a31
+0.0301537 0.866928 0.497521  // a12 a22 a32
+0.339422 -0.477051 0.810688  // a13 a23 a33

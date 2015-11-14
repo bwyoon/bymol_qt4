@@ -1,0 +1,24 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+ <file>icon.png</file>
+ <file>fileopen.png</file>
+ <file>filesave.png</file>
+ <file>editcopy.png</file>
+ <file>rotxm.png</file>
+ <file>rotxp.png</file>
+ <file>rotym.png</file>
+ <file>rotyp.png</file>
+ <file>rotzm.png</file>
+ <file>rotzp.png</file>
+ <file>stick.png</file>
+ <file>bigball.png</file>
+ <file>smallball.png</file>
+ <file>zoomin.png</file>
+ <file>zoomout.png</file>
+ <file>quality.png</file>
+ <file>antialias.png</file>
+ <file>glconf.png</file>
+ <file>molconf.png</file>
+</qresource>
+</RCC>
